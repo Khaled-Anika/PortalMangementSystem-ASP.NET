@@ -1,0 +1,35 @@
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\bin\Debug\University.Portal.Testing.exe.config
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\bin\Debug\University.Portal.Testing.exe
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\bin\Debug\University.Portal.Testing.pdb
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\bin\Debug\EntityFramework.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\bin\Debug\EntityFramework.SqlServer.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\bin\Debug\EntityFramework.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\bin\Debug\EntityFramework.SqlServer.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\obj\Debug\University.Portal.Testing.csprojResolveAssemblyReference.cache
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\obj\Debug\University.Portal.Testing.exe
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\obj\Debug\University.Portal.Testing.pdb
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Testing\bin\Debug\University.Portal.Testing.exe.config
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Testing\obj\Debug\University.Portal.Testing.exe
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Testing\obj\Debug\University.Portal.Testing.pdb
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Testing\bin\Debug\University.Portal.Testing.exe
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Testing\bin\Debug\University.Portal.Testing.pdb
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Testing\bin\Debug\EntityFramework.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Testing\bin\Debug\EntityFramework.SqlServer.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Testing\bin\Debug\EntityFramework.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Testing\bin\Debug\EntityFramework.SqlServer.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Testing\obj\Debug\University.Portal.Testing.csprojResolveAssemblyReference.cache
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Testing\bin\Debug\University.Portal.Testing.exe.config
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Testing\bin\Debug\University.Portal.Testing.exe
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Testing\bin\Debug\University.Portal.Testing.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Testing\bin\Debug\EntityFramework.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Testing\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Testing\bin\Debug\EntityFramework.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Testing\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Testing\obj\Debug\University.Portal.Testing.csprojResolveAssemblyReference.cache
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Testing\obj\Debug\University.Portal.Testing.exe
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Testing\obj\Debug\University.Portal.Testing.pdb
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\bin\Debug\FluentValidation.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\bin\Debug\System.ValueTuple.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\bin\Debug\FluentValidation.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Testing\bin\Debug\System.ValueTuple.xml

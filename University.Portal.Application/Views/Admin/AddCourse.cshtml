@@ -1,0 +1,56 @@
+﻿@model University.Portal.Entites.CourseEntites.Course
+
+@{
+    ViewBag.Title = " ";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+            New
+            <small>Semester</small>
+        </h1>
+
+    </section>
+
+    <!-- Main content -->
+    <section class="content container-fluid">
+        <div class="row">
+
+            <div class="col-lg-7 col-md-offset-0">
+                <div class="login-box-body">
+                    <p class="login-box-msg">Add Course</p>
+                    <p>@ViewBag.success</p>
+                    @using (Html.BeginForm("AddCourse", "Admin", FormMethod.Post, new { onSubmit = "return FormSubmit(this)" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        <label>Course Code: </label>
+                        <input type="text" class="form-control form-group has-feedback" name="CourseCode" placeholder="Course Code">
+                        <label>Course Name: </label>
+                        <input type="text" class="form-control form-group has-feedback" name="CourseName" placeholder="Course Name">
+                        <label>Credit: </label>
+                        <input type="text" class="form-control form-group has-feedback" name="Credit" placeholder="Credit">
+
+                        <div class="row">
+
+                            <!-- /.col -->
+                            <div class="col-xs-4">
+                                <button type="submit" class="btn btn-danger  btn-flat">Submit</button>
+                            </div>
+                            <!-- /.col -->
+                        </div>
+                    }
+
+
+
+                </div>
+            </div>
+        </div>
+
+
+    </section>
+    <!-- /.content -->
+</div>
+<!-- /.content-wrapper -->

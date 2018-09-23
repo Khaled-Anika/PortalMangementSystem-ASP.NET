@@ -1,0 +1,97 @@
+﻿@*@model IEnumerable<University.Portal.Entites.DegreeEntities.Degree>*@
+
+@{
+    ViewBag.Title = "DegreeDetails";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+
+<section class="content container-fluid">
+    <section class="content-header">
+        <h1>
+            Degree
+            <small>Details</small>
+        </h1><br />
+
+    </section>
+    <p>@ViewBag.Success</p>
+    <div class="row">
+        <div class="col-md-4 col-md-offset-1">
+
+        </div>
+    </div><br /><br />
+    <div class="row">
+        <div class="col-md-8 col-md-offset-1">
+
+            <div class="box">
+                <div class="box-header with-border">
+                    <h3 class="box-title">All Degrees</h3>
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body">
+                    <table class="table table-bordered success" id="myTable">
+                        <thead>
+                            <tr>
+                                <th>
+                                    Degree Name
+                                </th>
+                                <th>
+                                    Department Id
+                                </th>
+                                <th>
+                                    Update
+                                </th>
+                            </tr>
+
+                        </thead>
+
+                        @*@foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.DegreeName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.DepartmentId)
+                                    </td>
+                                    <td>
+                                        @Html.ActionLink("Edit", "Edit", new { id = item.DegreeId })
+                                    </td>
+                                </tr>
+                            }*@
+
+                    </table>
+                    @* Load datatable css *@
+                    <link href="//cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css" rel="stylesheet" />
+                    @* Load datatable js *@
+                    @section Scripts{
+                        <script src="//cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
+                        <script>
+                            $(document).ready(function () {
+                                $('#myTable').DataTable({
+                                    "ajax": {
+                                        "url": "/Admin/DegreeDataLoad",
+                                        "type": "GET",
+                                        "datatype": "json"
+                                    },
+                                    "columns": [
+                                        { "data": "DegreeName", "autoWidth": true },
+                                        { "data": "DepartmentId", "autoWidth": true },
+                                        {
+                                            "data": "DegreeId",
+                                            "mRender": function (data, type, full) {
+                                                return '<a href="/Admin/UpdateDegree/' + data + '">Update</a>';
+                                            }
+                                        }
+                                    ]
+                                });
+                            });
+                        </script>
+                    }
+                </div>
+                <!-- /.box-body -->
+            </div>
+
+        </div>
+    </div>
+</section>

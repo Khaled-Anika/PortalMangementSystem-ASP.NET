@@ -1,0 +1,194 @@
+﻿@model IEnumerable<University.Portal.Entites.CourseEntites.Course>
+
+@{
+    ViewBag.Title = "CourseRegistration";
+    Layout = "~/Views/Shared/_Layout_Student.cshtml";
+    List<int> registerdcourses = ViewBag.registerdcourses as List<int>;
+}
+
+
+@section ContentHeader{
+
+    <h1>
+        Student
+        <small>Course Registration</small>
+    </h1>
+
+
+}
+
+<a class="btn btn-primary"  id="AllCourse">Registered Course</a>
+<div class="row">
+
+
+    <div class="col-md-12">
+        <h4>Fall-Semister 2018-2019</h4>
+        <div class="table-responsive">
+
+
+            <table id="mytable" class="table table-bordred table-striped">
+
+                <thead>
+
+                <th>Select</th>
+                <th>Course ID</th>
+                <th>Course Name</th>
+                <th>Credit</th>
+
+
+                </thead>
+
+
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                           
+                            
+                          
+                            @if (registerdcourses.Contains(item.CourseId))
+                            {
+                              
+                                   <td><input type="checkbox" class="chcktbl1" value="@item.CourseId" checked="checked"/></td>
+                            }
+                            else
+                            {
+                                <td>
+                                    <input type="checkbox" class="chcktbl1" value="@item.CourseId" />
+
+                                </td>
+
+                                   
+
+                             }
+                               
+
+                            <td>
+                                  
+                                @Html.DisplayFor(modelItem => item.CourseCode)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.CourseName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Credit)
+                            </td>
+
+                        </tr>
+                    }
+
+
+
+
+
+
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+
+
+        <div class="modal fade" id="CourseListModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title">Registered Course This Semister</h4>
+                    </div>
+                    <div class="modal-body" id="CourseData">
+
+                    </div>
+                    @*<div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary">Confirm Registration</button>
+                    </div>*@
+                </div>
+            </div>
+        </div>
+
+
+@section Scripts{
+        
+        <script>
+            $(".chcktbl1").click(function () {
+
+                var cid = $(this).val();
+                //alert(cid);
+
+                $.ajax({
+                    method: "POST",
+                    url: "/Student/AddCourse",
+                    datatype: "json",
+                    contentType: 'application/json; charset=utf-8',
+                     data: JSON.stringify({ CourseID: cid }),
+                    // data: {'CourseID': cid },
+
+                   
+                    success: function (response) {
+                       
+                        alert(response);
+                           
+                    },
+                    error: function (response) {
+                       
+                            alert("Error!!!!");
+                        
+                    }
+                });
+
+            });
+
+
+
+
+
+
+
+            //Modal Value Show
+
+            $("#AllCourse").click(function () {
+
+
+                $("#CourseListModal").modal("show");
+            
+
+                $.ajax({
+                    method: "GET",
+                    url: "/Student/RegisterCourseGet",
+                   // datatype: "json",
+                    //contentType: 'application/json; charset=utf-8',
+                   // data: JSON.stringify({ CourseID: cid }),
+                    // data: {'CourseID': cid },
+
+
+                    success: function (response) {
+
+                        $("#CourseData").html(response);
+
+                        $("#CourseListModal").modal("show");
+
+                        //alert(response);
+
+                    },
+                    error: function (response) {
+
+                        alert("Error!!!!");
+
+                    }
+                });
+
+            });
+
+
+
+
+
+        </script>
+        
+        
+        
+   }

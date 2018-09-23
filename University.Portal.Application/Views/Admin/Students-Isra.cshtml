@@ -1,0 +1,94 @@
+
+@{
+    ViewBag.Title = "Students";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<!-- Content Wrapper. Contains page content -->
+
+<section class="content container-fluid">
+    <div class="row">
+        <div class="col-md-4 col-md-offset-1">
+
+        </div>
+    </div><br /><br />
+    <div class="row">
+        <div class="col-md-8 col-md-offset-1">
+
+            <div class="box">
+                <div class="box-header with-border">
+                    <h3 class="box-title">All Students</h3>
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body">
+                    <table class="table table-bordered success" id="myTable">
+                        <thead>
+                            <tr>
+                                <th>
+                                    Name
+                                </th>
+                                <th>
+                                    StudentId
+                                </th>
+                                <th>
+                                    DepartmentName
+                                </th>
+                                <th>
+                                    DegreeName
+                                </th>
+                                <th>
+                                    Details
+                                </th>
+                                <th>
+                                    Update
+                                </th>
+                                <th></th>
+                            </tr>
+
+                        </thead>
+                    </table>
+
+                    @* Load datatable css *@
+                    <link href="//cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css" rel="stylesheet" />
+                    @* Load datatable js *@
+                    @section Scripts{
+                        <script src="//cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
+                        <script>
+                            $(document).ready(function () {
+                                $('#myTable').DataTable({
+                                    "ajax": {
+                                        "url": "/Admin/StudentDataLoad",
+                                        "type": "GET",
+                                        "datatype": "json"
+                                    },
+                                    "columns": [
+                                            { "data": "FirstName", "autoWidth": true },
+                                            { "data": "StudentId", "autoWidth": true },
+                                            { "data": "Department.DepartmentName", "autoWidth": true },
+                                            { "data": "Degree.DegreeName", "autoWidth": true },
+                                            {
+                                                "data": "StudentId",
+                                                "mRender": function (data, type, full) {
+                                                    return '<a href="/Admin/StudentDetails/' + data + '">Details</a>';
+                                                }
+                                            },
+                                            {
+                                                "data": "StudentId",
+                                                "mRender": function (data, type, full) {
+                                                    return '<a href="/Admin/UpdateStudent/' + data + '">Details</a>';
+                                                }
+                                            }
+                                    ]
+                                });
+                            });
+                        </script>
+                    }
+                </div>
+                <!-- /.box-body -->
+            </div>
+
+        </div>
+    </div>
+
+</section>
+<!-- /.content-wrapper -->

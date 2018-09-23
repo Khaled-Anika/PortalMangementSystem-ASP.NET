@@ -1,0 +1,47 @@
+E:\Astha\MVC Project\university-management-system\University.Portal.Entites\bin\Debug\University.Portal.Entites.dll.config
+E:\Astha\MVC Project\university-management-system\University.Portal.Entites\bin\Debug\University.Portal.Entites.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Entites\bin\Debug\University.Portal.Entites.pdb
+E:\Astha\MVC Project\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.SqlServer.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.SqlServer.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.csprojResolveAssemblyReference.cache
+E:\Astha\MVC Project\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.pdb
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Entites\bin\Debug\University.Portal.Entites.dll.config
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Entites\bin\Debug\University.Portal.Entites.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Entites\bin\Debug\University.Portal.Entites.pdb
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.SqlServer.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.SqlServer.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.csprojResolveAssemblyReference.cache
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.pdb
+F:\bitBucket\university-management-system\University.Portal.Entites\bin\Debug\University.Portal.Entites.dll.config
+F:\bitBucket\university-management-system\University.Portal.Entites\bin\Debug\University.Portal.Entites.dll
+F:\bitBucket\university-management-system\University.Portal.Entites\bin\Debug\University.Portal.Entites.pdb
+F:\bitBucket\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.dll
+F:\bitBucket\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.SqlServer.dll
+F:\bitBucket\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.xml
+F:\bitBucket\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.SqlServer.xml
+F:\bitBucket\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.csprojAssemblyReference.cache
+F:\bitBucket\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.csproj.CoreCompileInputs.cache
+F:\bitBucket\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.csproj.CopyComplete
+F:\bitBucket\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.dll
+F:\bitBucket\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\bin\Debug\University.Portal.Entites.dll.config
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\bin\Debug\University.Portal.Entites.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\bin\Debug\University.Portal.Entites.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.csprojResolveAssemblyReference.cache
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\obj\Debug\University.Portal.Entites.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\bin\Debug\FluentValidation.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\bin\Debug\System.ValueTuple.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\bin\Debug\FluentValidation.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Entites\bin\Debug\System.ValueTuple.xml

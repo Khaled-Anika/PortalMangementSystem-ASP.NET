@@ -1,0 +1,71 @@
+﻿@model IEnumerable<University.Portal.Entites.RegistrationEntites.CourseRegistration>
+
+@{
+    ViewBag.Title = "Add Semester ";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+            New
+            <small>Semester</small>
+        </h1>
+
+    </section>
+
+    <!-- Main content -->
+    <section class="content container-fluid">
+            <div class="row">
+
+                <div class="col-lg-7 col-md-offset-0">
+                    <div class="login-box-body">
+                        <p class="login-box-msg">Add Semester</p>
+                        <p>@ViewBag.success</p>
+                        @using (Html.BeginForm("AddSemester", "Admin", FormMethod.Post, new { onSubmit = "return FormSubmit(this)" }))
+                        {
+                            @Html.AntiForgeryToken()
+                            <label>Semester Code: </label>
+                            <select class="form-control form-group has-feedback" name="SemesterCode">
+                                <option>Semester Code</option>
+                                <option value="Fall">Fall</option>
+                                <option value="Spring">Spring</option>
+                                <option value="Summer">Summer</option>
+                            </select>
+                            @*@{
+                DateTime d = new DateTime();
+                var y = d.Year;
+            }*@
+                            <label>Year: </label>
+                            <input type="text" class="form-control form-group has-feedback" name="year" placeholder="Year">
+
+                            @*<select class="form-control form-group has-feedback">
+                <option>Year</option>
+                <option>2018</option>
+                <option>2019</option>
+                <option>2020</option>
+            </select>*@
+
+
+                            <div class="row">
+
+                                <!-- /.col -->
+                                <div class="col-xs-4">
+                                    <button type="submit" class="btn btn-danger  btn-flat">Submit</button>
+                                </div>
+                                <!-- /.col -->
+                            </div>
+                        }
+
+
+
+                    </div>
+                </div>
+            </div>
+
+
+</section>
+    <!-- /.content -->
+</div>
+<!-- /.content-wrapper -->

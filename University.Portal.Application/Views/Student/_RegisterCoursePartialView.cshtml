@@ -1,0 +1,93 @@
+﻿@model IEnumerable<University.Portal.Entites.RegistrationEntites.CourseRegistration>
+
+@{
+    Layout = null;
+}
+
+<table class="table table-bordered" id="tblCourse">
+
+    <thead>
+        <tr>
+
+            <th>Course Code</th>
+            <th>Course Name</th>
+            <th>Course Credit</th>
+            <th style="visibility:hidden;"></th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+      
+        <tr>
+
+            <td>@item.Courses.CourseCode</td>
+            <td>@item.Courses.CourseName</td>
+            <td>@item.Courses.Credit</td>
+            <td style="visibility:hidden;">@item.StudentId</td>
+            <td style="visibility:hidden;">@item.SemesterId</td>
+            <td style="visibility:hidden;">@item.Courses.CourseId</td>
+
+
+
+
+        </tr>
+
+        }
+
+
+    </tbody>
+
+
+</table>
+
+<input type="button" value="Confirm Registartion" class="btn btn-danger" id="btnSave" />
+
+
+<script>
+    $("#btnSave").click(function () {
+
+       // alert("hello");
+
+               var Coures = new Array();
+               $("#tblCourse TBODY TR").each(function () {
+                   var row = $(this);
+                   var CourseComplete = {};
+                   CourseComplete.StudentId = row.find("TD").eq(3).html();
+                   CourseComplete.SemesterId = row.find("TD").eq(4).html();
+                   CourseComplete.CourseId = row.find("TD").eq(5).html();
+                   CourseComplete.CourseCompleteId = row.find("TD").eq(5).html();
+
+
+
+
+                   Coures.push(CourseComplete);
+               });
+
+
+             // console.log(Coures);
+
+                $.ajax({
+                    method: "POST",
+                    url: "/Student/RegisterCourseAdd",
+                    datatype: "json",
+                    contentType: 'application/json; charset=utf-8',
+                    data: JSON.stringify(Coures),
+                    // data: {'CourseID': cid },
+
+
+                    success: function (response) {
+
+                        alert(response);
+
+                    },
+                    error: function (response) {
+
+                            alert("Error!!!!");
+
+                    }
+                });
+
+            });
+</script>

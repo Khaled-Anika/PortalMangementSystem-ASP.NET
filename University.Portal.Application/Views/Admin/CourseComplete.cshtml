@@ -1,0 +1,35 @@
+﻿@model IEnumerable<University.Portal.Application.Models.CourseCompleteModel>
+@{
+    ViewBag.Title = "CourseComplete";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<h2>CourseComplete</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">    
+    <tr>
+        <th>Course Code</th>
+        <th>Name</th>
+        <th>Credit</th>
+        <th>Grade</th>
+    </tr>
+
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.semester.SemesterCode @item.semester.year</td>
+        </tr>
+        foreach (var i in item.courses)
+        {
+            <tr>
+                <td>@i.CourseCode</td>
+                <td>@i.CourseName</td>
+                <td>@i.Credit</td>
+            </tr>
+        }
+    }
+
+</table>

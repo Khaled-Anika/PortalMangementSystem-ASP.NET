@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University.Portal.Infrastructure", "University.Portal.Infrastructure\University.Portal.Infrastructure.csproj", "{950B49C9-F8DF-4D57-82A6-7B234F48750B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University.Portal.Testing", "University.Portal.Testing\University.Portal.Testing.csproj", "{EAD32AE7-056F-4ADF-B54C-B73B54B716BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University.Portal.Entites", "University.Portal.Entites\University.Portal.Entites.csproj", "{40303DD1-C6F4-4563-AC20-682161D18F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University.Portal.BusinessLogic.Interface", "University.Portal.BusinessLogic.Interface\University.Portal.BusinessLogic.Interface.csproj", "{61C8938A-FE11-4C1A-8260-73FA70342DA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University.Portal.BusinessLogic", "University.Portal.BusinessLogic\University.Portal.BusinessLogic.csproj", "{2846A1FB-EB83-4622-B660-4BDF67102347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University.Portal.Application", "University.Portal.Application\University.Portal.Application.csproj", "{C99EC4B9-B98B-4FDB-864C-A0234B2E3481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950B49C9-F8DF-4D57-82A6-7B234F48750B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950B49C9-F8DF-4D57-82A6-7B234F48750B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950B49C9-F8DF-4D57-82A6-7B234F48750B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950B49C9-F8DF-4D57-82A6-7B234F48750B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD32AE7-056F-4ADF-B54C-B73B54B716BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD32AE7-056F-4ADF-B54C-B73B54B716BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD32AE7-056F-4ADF-B54C-B73B54B716BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD32AE7-056F-4ADF-B54C-B73B54B716BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40303DD1-C6F4-4563-AC20-682161D18F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40303DD1-C6F4-4563-AC20-682161D18F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40303DD1-C6F4-4563-AC20-682161D18F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40303DD1-C6F4-4563-AC20-682161D18F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C8938A-FE11-4C1A-8260-73FA70342DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C8938A-FE11-4C1A-8260-73FA70342DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C8938A-FE11-4C1A-8260-73FA70342DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C8938A-FE11-4C1A-8260-73FA70342DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2846A1FB-EB83-4622-B660-4BDF67102347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2846A1FB-EB83-4622-B660-4BDF67102347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2846A1FB-EB83-4622-B660-4BDF67102347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2846A1FB-EB83-4622-B660-4BDF67102347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99EC4B9-B98B-4FDB-864C-A0234B2E3481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99EC4B9-B98B-4FDB-864C-A0234B2E3481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99EC4B9-B98B-4FDB-864C-A0234B2E3481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99EC4B9-B98B-4FDB-864C-A0234B2E3481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

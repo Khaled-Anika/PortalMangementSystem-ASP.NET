@@ -1,0 +1,260 @@
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\ApplicationInsights.config
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\roslyn\csc.exe
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\roslyn\System.Collections.Immutable.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\roslyn\System.Reflection.Metadata.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\roslyn\vbc.exe
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\roslyn\VBCSCompiler.exe
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\roslyn\VBCSCompiler.exe.config
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\University.Portal.Application.dll.config
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\University.Portal.Application.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\University.Portal.Application.pdb
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.AI.DependencyCollector.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.AI.Web.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.AI.WindowsServer.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.ApplicationInsights.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.Web.Infrastructure.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.Web.Helpers.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.Web.Mvc.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.Web.Razor.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Deployment.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.Web.Webpages.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Razor.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.AI.DependencyCollector.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.AI.Web.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.AI.WindowsServer.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.ApplicationInsights.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.Web.Razor.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.Web.Webpages.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Deployment.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Razor.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.Web.Helpers.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.Web.Mvc.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.csprojResolveAssemblyReference.cache
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.pdb
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\ApplicationInsights.config
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\roslyn\csc.exe
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\roslyn\System.Collections.Immutable.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\roslyn\System.Reflection.Metadata.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\roslyn\vbc.exe
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\roslyn\VBCSCompiler.exe
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\roslyn\VBCSCompiler.exe.config
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\University.Portal.Application.dll.config
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\University.Portal.Application.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\University.Portal.Application.pdb
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\EntityFramework.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\EntityFramework.SqlServer.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.AI.Agent.Intercept.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.AI.DependencyCollector.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.AI.Web.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.AI.WindowsServer.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.ApplicationInsights.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.Web.Infrastructure.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\System.Web.Helpers.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\System.Web.Mvc.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\System.Web.Razor.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Deployment.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\System.Web.Webpages.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Razor.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\University.Portal.Entites.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\University.Portal.Infrastructure.exe
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\University.Portal.Entites.pdb
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\University.Portal.Infrastructure.pdb
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\EntityFramework.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\EntityFramework.SqlServer.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.AI.DependencyCollector.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.AI.Web.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.AI.WindowsServer.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.ApplicationInsights.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\System.Web.Razor.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\System.Web.Webpages.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Deployment.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Razor.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\System.Web.Helpers.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\System.Web.Mvc.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.csprojResolveAssemblyReference.cache
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.pdb
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Autofac.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Autofac.Integration.Mvc.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Autofac.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.Application\bin\Autofac.Integration.Mvc.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\ApplicationInsights.config
+F:\bitBucket\university-management-system\University.Portal.Application\bin\roslyn\csc.exe
+F:\bitBucket\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\bitBucket\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\bitBucket\university-management-system\University.Portal.Application\bin\roslyn\System.Collections.Immutable.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\roslyn\System.Reflection.Metadata.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\roslyn\vbc.exe
+F:\bitBucket\university-management-system\University.Portal.Application\bin\roslyn\VBCSCompiler.exe
+F:\bitBucket\university-management-system\University.Portal.Application\bin\roslyn\VBCSCompiler.exe.config
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.Application.dll.config
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.Application.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.Application.pdb
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Autofac.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Autofac.Integration.Mvc.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\EntityFramework.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\EntityFramework.SqlServer.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.AI.Agent.Intercept.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.AI.DependencyCollector.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.AI.Web.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.AI.WindowsServer.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.ApplicationInsights.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.Web.Infrastructure.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\System.Web.Helpers.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\System.Web.Mvc.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\System.Web.Razor.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Deployment.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\System.Web.Webpages.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Razor.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.Interface.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.Entites.dll
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.Infrastructure.exe
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.Interface.pdb
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.Interface.dll.config
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.pdb
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.dll.config
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.Entites.pdb
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.Entites.dll.config
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.Infrastructure.pdb
+F:\bitBucket\university-management-system\University.Portal.Application\bin\University.Portal.Infrastructure.exe.config
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Autofac.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Autofac.Integration.Mvc.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\EntityFramework.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\EntityFramework.SqlServer.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.AI.DependencyCollector.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.AI.Web.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.AI.WindowsServer.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.ApplicationInsights.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\System.Web.Razor.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\System.Web.Webpages.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Deployment.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Razor.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\System.Web.Helpers.xml
+F:\bitBucket\university-management-system\University.Portal.Application\bin\System.Web.Mvc.xml
+F:\bitBucket\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.csprojAssemblyReference.cache
+F:\bitBucket\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.csproj.CoreCompileInputs.cache
+F:\bitBucket\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.csproj.CopyComplete
+F:\bitBucket\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.dll
+F:\bitBucket\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.csprojResolveAssemblyReference.cache
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\obj\Debug\University.Portal.Application.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\ApplicationInsights.config
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\roslyn\csc.exe
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\roslyn\vbc.exe
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\roslyn\VBCSCompiler.exe
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\University.Portal.Application.dll.config
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\University.Portal.Application.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\University.Portal.Application.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Autofac.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Autofac.Integration.Mvc.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\EntityFramework.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\EntityFramework.SqlServer.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.AI.Web.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.ApplicationInsights.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.Web.Helpers.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.Web.Mvc.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.Web.Razor.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Deployment.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.Web.Webpages.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Razor.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.Interface.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\University.Portal.Entites.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\University.Portal.Infrastructure.exe
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.Interface.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\University.Portal.Entites.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\University.Portal.Infrastructure.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Autofac.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Autofac.Integration.Mvc.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\EntityFramework.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\EntityFramework.SqlServer.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.AI.Web.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.ApplicationInsights.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.Web.Razor.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.Web.Webpages.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Deployment.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.Web.Webpages.Razor.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.Web.Helpers.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.Web.Mvc.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\FluentValidation.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.ComponentModel.Primitives.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.ValueTuple.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\FluentValidation.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.Application\bin\System.ValueTuple.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Autofac.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Autofac.Integration.Mvc.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\EntityFramework.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\EntityFramework.SqlServer.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\FluentValidation.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.ComponentModel.Primitives.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.ValueTuple.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.Interface.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\University.Portal.Entites.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\University.Portal.Infrastructure.exe
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.Interface.pdb
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\University.Portal.BusinessLogic.pdb
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\University.Portal.Entites.pdb
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\University.Portal.Infrastructure.pdb
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Autofac.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\Autofac.Integration.Mvc.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\EntityFramework.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\EntityFramework.SqlServer.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\FluentValidation.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.Application\bin\System.ValueTuple.xml

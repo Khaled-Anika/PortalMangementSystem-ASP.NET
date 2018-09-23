@@ -1,0 +1,86 @@
+﻿@model University.Portal.Entites.StudentEntites.Student
+
+@{
+    ViewBag.Title = "StudentDetails";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<h2>StudentDetails</h2>
+
+@*<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Name
+        </dt>
+
+        <dd>
+            @Model.FirstName @Model.MiddleName @Model.LastName
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StudentId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DepartmentName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DepartmentName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DegreeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DegreeName)
+        </dd>
+
+    </dl>
+</div>*@
+
+<div class="panel-body">
+    <div class="row">
+
+        <div class=" col-md-9 col-lg-9 ">
+            <table class="table table-user-information">
+                <tbody>
+                    <tr>
+                        <td>Name:</td>
+                        <td>@Model.FirstName @Model.MiddleName @Model.LastName</td>
+                    </tr>
+                    <tr>
+                        <td>Student ID:</td>
+                        <td>@Model.StudentId</td>
+                    </tr>
+                    <tr>
+                        <td>Department:</td>
+                        <td>@Model.Department.DepartmentName</td>
+                    </tr>
+
+                    <tr>
+                        <td>Degree</td>
+                        <td>@Model.Degree.DegreeName</td>
+                    </tr>
+
+                </tbody>
+            </table>
+
+
+
+        </div>
+    </div>
+</div>
+
+<p>
+    @Html.RouteLink("CoursesCompleted", "AdminCourseComplete")
+</p>
+
+

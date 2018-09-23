@@ -1,0 +1,61 @@
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.csprojResolveAssemblyReference.cache
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.BusinessLogic.Interface.dll.config
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.BusinessLogic.Interface.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.BusinessLogic.Interface.pdb
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.SqlServer.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.Entites.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.Entites.pdb
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.SqlServer.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.pdb
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.BusinessLogic.Interface.dll.config
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.BusinessLogic.Interface.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.BusinessLogic.Interface.pdb
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.SqlServer.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.Entites.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.Entites.pdb
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.SqlServer.xml
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.csprojResolveAssemblyReference.cache
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.dll
+D:\visual studio 2015 project\UMS\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.pdb
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.BusinessLogic.Interface.dll.config
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.BusinessLogic.Interface.dll
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.BusinessLogic.Interface.pdb
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.dll
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.SqlServer.dll
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.Entites.dll
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.Entites.pdb
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.Entites.dll.config
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.xml
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.SqlServer.xml
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.csprojAssemblyReference.cache
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.csproj.CoreCompileInputs.cache
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.csproj.CopyComplete
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.dll
+F:\bitBucket\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.BusinessLogic.Interface.dll.config
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.BusinessLogic.Interface.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.BusinessLogic.Interface.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.Entites.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\University.Portal.Entites.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.csprojResolveAssemblyReference.cache
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\obj\Debug\University.Portal.BusinessLogic.Interface.pdb
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\FluentValidation.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\System.ValueTuple.dll
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\FluentValidation.xml
+C:\Users\meghl\Desktop\ANika\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\System.ValueTuple.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\FluentValidation.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\System.ValueTuple.dll
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\FluentValidation.xml
+E:\Astha\MVC Project\university-management-system\University.Portal.BusinessLogic.Interface\bin\Debug\System.ValueTuple.xml

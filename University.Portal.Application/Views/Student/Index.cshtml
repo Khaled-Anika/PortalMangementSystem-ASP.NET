@@ -1,0 +1,97 @@
+﻿@model University.Portal.Entites.StudentEntites.Student
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout_Student.cshtml";
+}
+
+
+
+@section ContentHeader{
+    
+    <h1>
+        Student
+        <small>Profile</small>
+     </h1>
+    
+    
+    }
+
+<div class="row">
+
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xs-offset-0 col-sm-offset-0 col-md-offset-3 col-lg-offset-2">
+
+
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                <h3 class="panel-title">Profile Data</h3>
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-md-3 col-lg-3 " align="center"> <img alt="User Pic" src="~/Content/Component/dist/img/user2-160x160.jpg" class="img-circle img-responsive"> </div>
+
+                    <div class=" col-md-9 col-lg-9 ">
+                        <table class="table table-user-information">
+                            <tbody>
+                                <tr>
+                                    <td>Name:</td>
+                                    <td>@Model.FirstName @Model.MiddleName @Model.LastName</td>
+                                </tr>
+                                <tr>
+                                    <td>Student ID:</td>
+                                    <td>@Model.StudentId</td>
+                                </tr>
+                                <tr>
+                                    <td>Department:</td>
+                                    <td>@Model.Department.DepartmentName</td>
+                                </tr>
+
+                                <tr>
+                                    <td>Degree</td>
+                                    <td>@Model.Degree.DegreeName</td>
+                                </tr>
+
+                                <tr>
+                                    <td>Joining Batch</td>
+                                    <td>@Model.Semester.SemesterCode @Model.Semester.year</td>
+                                </tr>
+
+                                @*<tr>
+
+                                    <td>Gender</td>
+                                    <td>Male</td>
+                                </tr>
+                                <tr>
+                                    <td>Home Address</td>
+                                    <td>Norda,Dhaka</td>
+                                </tr>
+                                <tr>
+                                    <td>Email</td>
+                                    <td><a href="mailto:info@support.com">badhansaha444@gmail.com</a></td>
+                                </tr>
+                            <td>Phone Number</td>
+                            <td>
+                                01700-000000(Cell)
+                            </td>
+
+                            </tr>*@
+
+                            </tbody>
+                        </table>
+
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="panel-footer">
+                <a data-original-title="Broadcast Message" data-toggle="tooltip" type="button" class="btn btn-sm btn-primary"><i class="glyphicon glyphicon-envelope"></i></a>
+                <span class="pull-right">
+                    <a href="edit.html" data-original-title="Edit this user" data-toggle="tooltip" type="button" class="btn btn-sm btn-warning"><i class="glyphicon glyphicon-edit"></i></a>
+
+                </span>
+            </div>
+
+        </div>
+    </div>
+</div>

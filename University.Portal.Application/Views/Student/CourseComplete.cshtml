@@ -1,0 +1,94 @@
+﻿@model IEnumerable<University.Portal.Entites.VModel.Entites.VCourseCompleteModel>
+
+@{
+    ViewBag.Title = "CourseComplete";
+    Layout = "~/Views/Shared/_Layout_Student.cshtml";
+}
+
+
+@section ContentHeader{
+
+    <h1>
+        Student
+        <small>Course Complete</small>
+    </h1>
+
+
+}
+
+<div class="row">
+
+    <div class="col-md-8 col-md-offset-2">
+
+        <div class="box">
+            <div class="box-header with-border">
+                <h3 class="box-title">Semester Course Report  </h3>
+            </div>
+            <!-- /.box-header -->
+            @*<div class="box-body">
+               
+               
+
+            </div>*@
+            <!-- /.box-body -->
+
+        </div>
+
+
+
+        <div class="box">
+            <div class="box-header with-border">
+                <h3 class="box-title"></h3>
+            </div>
+            <!-- /.box-header -->
+            <div class="box-body">
+                <table class="table table-bordered">
+                    <tr>
+
+                        <th>Course Code</th>
+                        <th>Course Name</th>
+                        <th> Course Credit</th>
+                      
+
+                    </tr>
+
+                    @*<tr>
+                        <th colspan="4">Semester 1</th>
+                    </tr>*@
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td colspan="3" style="color:red">Semester:  @item.semester.SemesterCode @item.semester.year</td>
+                        </tr>
+                        foreach (var i in item.courses)
+                        {
+                            <tr>
+                                <td>@i.CourseCode</td>
+                                <td>@i.CourseName</td>
+                                <td>@i.Credit</td>
+                            </tr>
+                        }
+                    }
+
+
+
+
+
+                </table>
+
+            </div>
+            <!-- /.box-body -->
+
+        </div>
+
+
+
+    </div>
+
+</div>
+
+
+
+
+

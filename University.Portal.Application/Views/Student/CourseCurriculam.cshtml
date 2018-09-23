@@ -1,0 +1,100 @@
+﻿
+@{
+    ViewBag.Title = "CourseCurriculam";
+    Layout = "~/Views/Shared/_Layout_Student.cshtml";
+}
+
+@section ContentHeader{
+
+    <h1>
+        Student
+        <small>Course Curriculam</small>
+    </h1>
+
+
+}
+
+    <div class="row">
+        <div class="col-md-4 col-md-offset-1">
+
+        </div>
+    </div><br /><br />
+    <p>@ViewBag.Success</p>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-1">
+
+            <div class="box">
+                <div class="box-header with-border">
+                    <h3 class="box-title">All Courses</h3>
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body">
+                    <table class="table table-bordered success" id="myTable">
+                        <thead>
+                            <tr>
+                                <th>
+                                    Course Code
+                                </th>
+                                <th>
+                                    Course Name
+                                </th>
+                                <th>
+                                    Credit
+                                </th>
+                                <th>
+
+                                </th>
+                            </tr>
+                        </thead>
+
+                        @*@foreach (var item in Model)
+                            {
+                            <tr>
+                                <td>
+                                @Html.DisplayFor(modelItem => item.CourseCode)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.CourseName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Credit)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Update", "CourseUpdate", new { id = item.CourseId })
+
+                                </td>
+                                </tr>
+                                }*@
+
+                    </table>
+                    @* Load datatable css *@
+                    <link href="//cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css" rel="stylesheet" />
+                    @* Load datatable js *@
+                    @section Scripts{
+                        <script src="//cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
+                        <script>
+                            $(document).ready(function () {
+                                $('#myTable').DataTable({
+                                    "ajax": {
+                                        "url": "/Student/CourseDataLoad",
+                                        "type": "GET",
+                                        "datatype": "json"
+                                    },
+                                    "columns": [
+                                        { "data": "CourseCode", "autoWidth": true },
+                                        { "data": "CourseName", "autoWidth": true },
+                                        { "data": "Credit", "autoWidth": true },
+                                        
+                                    ]
+                                });
+                            });
+                        </script>
+                    }
+                </div>
+                <!-- /.box-body -->
+            </div>
+
+        </div>
+    </div>
+
+</section>

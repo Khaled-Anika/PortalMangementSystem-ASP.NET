@@ -1,0 +1,60 @@
+﻿@model University.Portal.Entites.DegreeEntities.Degree
+
+@{
+    ViewBag.Title = " ";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+            New
+            <small>Degree</small>
+        </h1>
+
+    </section>
+
+    <!-- Main content -->
+    <section class="content container-fluid">
+        <div class="row">
+
+            <div class="col-lg-7 col-md-offset-0">
+                <div class="login-box-body">
+                    <p class="login-box-msg">Add Degree</p>
+                    <p>@ViewBag.success</p>
+                    @using (Html.BeginForm("AddDegree", "Admin", FormMethod.Post, new { onSubmit = "return FormSubmit(this)" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        <label>Degree Name: </label>
+                        <input type="text" class="form-control form-group has-feedback" name="DegreeName" placeholder="Degree Name">
+                        <label>Department Id: </label>
+                        <select class="form-control form-group has-feedback" name="DepartmentId">
+                            @foreach (var item in ViewBag.Departments)
+                            {
+                                <option value=@item.DepartmentId>@item.DepartmentName</option>
+                            }
+                        </select>
+
+
+                        <div class="row">
+
+                            <!-- /.col -->
+                            <div class="col-xs-4">
+                                <button type="submit" class="btn btn-danger  btn-flat">Submit</button>
+                            </div>
+                            <!-- /.col -->
+                        </div>
+                    }
+
+
+
+                </div>
+            </div>
+        </div>
+
+
+    </section>
+    <!-- /.content -->
+</div>
+<!-- /.content-wrapper -->
